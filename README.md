@@ -39,9 +39,9 @@ To play the Snake Game, you need to have Python installed on your computer. You 
 
 The Snake Game can be further improved by adding the following features:
 
-- High score tracking to challenge players to beat their best score.
-- Levels with increasing difficulty as the snake grows longer.
-- Adding obstacles or enemies that the snake must avoid.
+- High score tracking to challenge players to beat their best score. (Updated)
+- Levels with increasing difficulty as the snake grows longer. (Updated)
+
 
 ## Have Fun! 🎉
 
